@@ -1,8 +1,10 @@
+
+
 body{ 
 	background-color: black;
 		color: white; 
 		text-align: center;
 		font-family:'Orbitron', sans-serif;
-	
+	background-image: src="backgroundimage1";
 	}
 
