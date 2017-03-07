@@ -2,6 +2,7 @@
 
 body{ 
                 background="Backgroundimage1.jpg";
+	        background-repeat: none;
 	        background-size: 500px 480px;
 		color: white; 
 		text-align: center;
